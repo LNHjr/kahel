@@ -1,8 +1,4 @@
-/* =========================================================
-   Kahel website — site.js
-   The ONLY part you edit is the KAHEL_CONFIG box below.
-   This file is public: never put passwords, tokens or keys here.
-   ========================================================= */
+
 const KAHEL_CONFIG = {
   // Your Tenant App link (the Google Apps Script URL that ends in /exec)
   loginUrl: "https://script.google.com/macros/s/AKfycbwWvWQ45BJdoqR25eMPkfiiECeH3LpW-UPGIDGLG5npmIyczwxgN-pQl9UQf2m6YxH5/exec",
