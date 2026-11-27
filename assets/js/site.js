@@ -5,10 +5,10 @@
    ========================================================= */
 const KAHEL_CONFIG = {
   // Your Tenant App link (the Google Apps Script URL that ends in /exec)
-  loginUrl: "",
+  loginUrl: "https://script.google.com/macros/s/AKfycbwWvWQ45BJdoqR25eMPkfiiECeH3LpW-UPGIDGLG5npmIyczwxgN-pQl9UQf2m6YxH5/exec",
 
   // Your Telegram bot's username, without the @ (example: KahelBot)
-  telegramBot: "",
+  telegramBot: "kahel_app_bot",
 
   // Limited offer: lifetime access for the first clients on each plan.
   // Update "claimed" whenever a lifetime slot on that plan is sold.
