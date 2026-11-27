@@ -4,7 +4,7 @@ const KAHEL_CONFIG = {
   loginUrl: "https://script.google.com/macros/s/AKfycbwWvWQ45BJdoqR25eMPkfiiECeH3LpW-UPGIDGLG5npmIyczwxgN-pQl9UQf2m6YxH5/exec",
 
   // Your Telegram bot's username, without the @ (example: KahelBot)
-  telegramBot: "kahel_app_bot",
+  telegramBot: "kahelSupport",
 
   // Limited offer: lifetime access for the first clients on each plan.
   // Update "claimed" whenever a lifetime slot on that plan is sold.
