@@ -11,8 +11,8 @@ const KAHEL_CONFIG = {
   // When claimed reaches total, that plan switches back to "annual plan".
   lifetime: {
     starter: { total: 20, claimed: 8 },
-    duo:     { total: 20, claimed: 15 },
-    pro:     { total: 20, claimed: 18 }
+    duo:     { total: 20, claimed: 4 },
+    pro:     { total: 20, claimed: 5 }
   },
 
   // Optional public email shown in the footer; leave "" to hide it
